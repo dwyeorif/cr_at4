@@ -16,7 +16,7 @@ ticker = 'EOS'  # Ticker
 u_count = 230  # Upbit Order quantity
 b_count = 230.5   # Binance Order quantity
 mount = 1500000  # Order amount
-p_standard = -0.453  # Premium standard
+p_standard = 0.053  # Premium standard
 p_gap = 0.49  # Premium gap
 p_cnt = 299  # Initial count
 
